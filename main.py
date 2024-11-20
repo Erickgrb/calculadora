@@ -27,7 +27,7 @@ frame_body.grid(row=1, column=0)
 # Frames buttons
 
 button_size = 12
-font = "Times New Roman"
+font = "Ivy"
 
 b1 = Button(frame_body, text="C", width=16, height=2, bg=color4, fg=color1, font=(font, button_size, "bold"), relief=RAISED, overrelief=RIDGE)
 b1.place(x=0, y=0)
